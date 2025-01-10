@@ -9,4 +9,8 @@ public class NewClass {
     public void hello() {
         System.out.println("hello!");
     }
+
+    public void parter2method() {
+        System.out.println("brugh!");
+    }
 }

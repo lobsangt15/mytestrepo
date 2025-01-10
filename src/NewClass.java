@@ -5,4 +5,8 @@ public class NewClass {
     public NewClass(int num) {
         this.num = num;
     }
+
+    public void hello() {
+        System.out.println("hello!");
+    }
 }
